@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandeep-Charan
-- 👀 I’m interested in Web Development,Machine Learning
+- 👀 I’m interested in Web Development, Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me [Mail](mailto:sandeepcharank@gmail.com)
 
